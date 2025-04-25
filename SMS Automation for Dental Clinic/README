@@ -2,5 +2,5 @@ To edit the numebr of hours before the appointment that the SMS message will be 
 
 Here is the sample Google Sheets template for this project: https://docs.google.com/spreadsheets/d/1AxPXjI8jotr1aBvorLKt7fy2zCsrR9oPLrDkPGndDww/edit?usp=sharing 
 
-The 3rd party SMS gateway I used for this project is Semaphore. To utilize the code, paste your unique API key and the current API URL of Semaphore (it changes from 
-time to time depending on the version) or the API URL of any 3rd party SMS gateway.
+The 3rd party SMS gateway I used for this project is Semaphore. To utilize the code, paste your unique API key and the current API URL of Semaphore (it changes 
+from time to time depending on the version) or the API URL of any 3rd party SMS gateway.
